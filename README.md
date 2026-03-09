@@ -100,7 +100,7 @@ Cross-Browser	      Chrome, Firefox, Safari, Edge
 Version Control	      Git, GitHub
 
 
-📁 Portfolio Files
+## 📁 Portfolio Files
 
 [📄 Test Plan](./01_Test_Plan)
 [📊 Test Scenarios](./02_Test_Scenarios)
@@ -114,5 +114,6 @@ Version Control	      Git, GitHub
 
 Email: amishamodi770@gmail.com
 LinkedIn: https://linkedin.com/in/amisha-modi-0bb29a115
+
 
 ⭐ If you find this portfolio helpful, consider giving it a star!
