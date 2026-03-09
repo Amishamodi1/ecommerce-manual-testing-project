@@ -100,21 +100,21 @@ Cross-Browser	      Chrome, Firefox, Safari, Edge
 Version Control	      Git, GitHub
 
 
-## Portfolio Files
+## 📂 Portfolio Files
 
-[Test Plan](./01_Test_Plan/Test_Plan.docx)
+📄 [Test Plan](./01_Test_Plan/Test_Plan.docx)
 
-[Test Scenarios](./02_Test_Scenarios/Test_Scenarios.xlsx)
+📊 [Test Scenarios](./02_Test_Scenarios/Test_Scenarios.xlsx)
 
-[Test Cases](./03_Test_Cases/Test_Cases.xlsx)
+✅ [Test Cases](./03_Test_Cases/Test_Cases.xlsx)
 
-[Bug Reports](./04_Bug_Report/Bug_Report.xlsx)
+🐛 [Bug Reports](./05_Bug_Report/Bug_Report.xlsx)
 
-[Test Summary](./05_Test_Summary/Test_Summary_Report.docx)
+📈 [Test Summary](./06_Summary_Report/Test_Summary_Report.docx)
 
-[RTM](./06_RTM/RTM.xlsx)
+🔗 [RTM](./04_RTM/RTM.xlsx)
 
-[API Testing](./08_API_Testing/API_Collection.json)
+🔌 [API Testing](./07_API_Testing/API_Collection.json)
 
 
 📬 Contact
@@ -124,6 +124,7 @@ LinkedIn: https://linkedin.com/in/amisha-modi-0bb29a115
 
 
 ⭐ If you find this portfolio helpful, consider giving it a star!
+
 
 
 
