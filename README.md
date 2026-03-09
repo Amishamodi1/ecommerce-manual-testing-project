@@ -102,21 +102,11 @@ Version Control	      Git, GitHub
 
 ## 📂 Portfolio Files
 
-📄 [Test Plan](./01_Test_Plan/Test_Plan.docx)
+📄 [Test Plan Folder](./01_Test_Plan)
 
-📊 [Test Scenarios](./02_Test_Scenarios/Test_Scenarios.xlsx)
+📊 [Test Scenarios Folder](./02_Test_Scenarios)
 
-✅ [Test Cases](./03_Test_Cases/Test_Cases.xlsx)
-
-🐛 [Bug Reports](./05_Bug_Report/Bug_Report.xlsx)
-
-📈 [Test Summary](./06_Summary_Report/Summary_Report.docx)
-
-🔗 [RTM](./04_RTM/RTM.xlsx)
-
-🔌 [API Testing Collection](./07_API_Testing/Amisha_Modi_API_Testing_Portfolio.json)
-
-📑 [API Test Results](./07_API_Testing/Amisha_Modi_API_Test_Results.pdf)
+✅ [Test Cases Folder](./03_Test_Cases)
 
 📬 Contact
 
@@ -125,6 +115,7 @@ LinkedIn: https://linkedin.com/in/amisha-modi-0bb29a115
 
 
 ⭐ If you find this portfolio helpful, consider giving it a star!
+
 
 
 
