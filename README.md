@@ -110,12 +110,13 @@ Version Control	      Git, GitHub
 
 🐛 [Bug Reports](./05_Bug_Report/Bug_Report.xlsx)
 
-📈 [Test Summary](./06_Summary_Report/Test_Summary_Report.docx)
+📈 [Test Summary](./06_Summary_Report/Summary_Report.docx)
 
 🔗 [RTM](./04_RTM/RTM.xlsx)
 
-🔌 [API Testing](./07_API_Testing/API_Collection.json)
+🔌 [API Testing Collection](./07_API_Testing/Amisha_Modi_API_Testing_Portfolio.json)
 
+📑 [API Test Results](./07_API_Testing/Amisha_Modi_API_Test_Results.pdf)
 
 📬 Contact
 
@@ -124,6 +125,7 @@ LinkedIn: https://linkedin.com/in/amisha-modi-0bb29a115
 
 
 ⭐ If you find this portfolio helpful, consider giving it a star!
+
 
 
 
