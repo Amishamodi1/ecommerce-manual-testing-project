@@ -1,9 +1,9 @@
-Ecommerce-manual-testing-project – Amisha Modi
-Manual Testing | API Testing
+# Ecommerce-manual-testing-project – Amisha Modi
+## Manual Testing | API Testing
 
-📌 About Me
+## 📌 About Me
 
-Hi, I'm Amisha Modi — a Software Test Engineer with 4+ years of experience in Manual, API, and Automation Testing.
+Hi, I'm Amisha Modi — a Software Test Engineer with 4 years of experience in Manual, API, and Automation Testing.
 I specialize in ensuring software quality through comprehensive test planning, execution, defect analysis, and API validation.
 This portfolio demonstrates my real-world QA testing work including test cases, bug reports, RTM, and API testing.
 
@@ -63,7 +63,7 @@ Modules Tested: 14
 | Avg Response Time | 1646 ms |
 
 
-Sample API Test Script
+## Sample API Test Script
 
 ```javascript
 pm.test('All users have valid email format', function() {
@@ -104,13 +104,14 @@ pm.test('All users have valid email format', function() {
 | Cross-Browser | Chrome, Firefox, Safari, Edge |
 | Version Control | Git, GitHub |
 
-📬 Contact
+## 📬 Contact
 
-Email: amishamodi770@gmail.com
+### Email: amishamodi770@gmail.com
 
-LinkedIn: [linkedin](https://linkedin.com/in/amisha-modi-0bb29a115)
+### LinkedIn: [linkedin](https://linkedin.com/in/amisha-modi-0bb29a115)
 
-⭐ If you find this portfolio helpful, consider giving it a star!
+### ⭐ If you find this portfolio helpful, consider giving it a star!
+
 
 
 
