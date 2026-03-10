@@ -111,10 +111,12 @@ Version Control	      Git, GitHub
 📬 Contact
 
 Email: amishamodi770@gmail.com
-LinkedIn: https://linkedin.com/in/amisha-modi-0bb29a115
+LinkedIn: [linkedin](https://linkedin.com/in/amisha-modi-0bb29a115)
+[Opencart](https://www.opencart.com/)
 
 
 ⭐ If you find this portfolio helpful, consider giving it a star!
+
 
 
 
